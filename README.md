@@ -1,6 +1,6 @@
 alfred-workflows
 ================
-alfred workflows from [dalang](/dalang.im)
+alfred workflows from [dalang](http://dalang.im)
 
 ### Proxy Toggle
 是照着WiFi Toggle做的。用来关闭开启Mac下的系统http 和 https的Proxy设置，对于将GoAgent设为全局代理的人特别实用！
